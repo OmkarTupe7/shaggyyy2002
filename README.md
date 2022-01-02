@@ -50,6 +50,6 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/nitin-gouda-b1577613b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> <a href = "https://dev.to/shaggyyy2002"><img src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/28/000000/external-dev-community-where-programmers-share-ideas-and-help-each-other-grow-logo-fresh-tal-revivo.png"/></a>
+<a href = "https://www.linkedin.com/in/nitin-gouda-b1577613b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> <a href = "https://dev.to/shaggyyy2002"><img src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/48/000000/external-dev-community-where-programmers-share-ideas-and-help-each-other-grow-logo-fresh-tal-revivo.png"/></a>
 <a href = "https://www.instagram.com/shaggyyyy.____/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
