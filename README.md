@@ -3,6 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NITIN</h1>
 <h3 align="center">Learning DevOps.</h3>
 
+<img  src="thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 ## 🙋‍♂️ **About Me:**
 
