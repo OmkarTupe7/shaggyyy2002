@@ -5,8 +5,6 @@
 
 ## 🙋‍♂️ **About Me:**
 
-<img  src="thoughtworks-gif_dribbble.gif" height="290px" align="right" />
-
 - 🔭 I’m currently working on **College Project which will help the students as a guide for Learning and making connections**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
