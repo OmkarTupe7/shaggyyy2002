@@ -1,11 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NITIN</h1>
-<h3 align="center">Learning DevOps.</h3>
-
-<img  src="thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<h3 align="center">I'm a passionate learning DevOps enthusiast from India.</h3>
 
 ## 🙋‍♂️ **About Me:**
+
+<img  src="thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🔭 I’m currently working on **College Project which will help the students as a guide for Learning and making connections**
 
@@ -29,8 +29,6 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/></a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://go.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/> </a> 
-
 </p>
 
 <br/>
