@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **https://linktr.ee/nitingouda**
+- 📫 Connect with me: **https://linktr.ee/nitingouda**
 
 - ⚡ Fun fact **I love reading phylosophical books and also to Travel & Eat.**
 
