@@ -2,13 +2,13 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NITIN</h1>
-<h3 align="center">I'm a passionate learning DevOps enthusiast from India.</h3>
+<h3 align="center">Learning & Leading from India</h3>
 
 ## 🙋‍♂️ **About Me:**
 
 - 🔭 I’m currently working on **College Project which will help the students as a guide for Learning and making connections**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
