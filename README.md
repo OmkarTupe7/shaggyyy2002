@@ -2,19 +2,8 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NITIN</h1>
-<h3 align="center">Learning & Leading from India</h3>
 
-## 🙋‍♂️ **About Me:**
-
-- 🔭 I’m currently working on **College Project which will help the students as a guide for Learning and making connections**
-
-- 🌱 I’m currently learning **DevOps**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 Connect with me: **https://linktr.ee/nitingouda**
-
-- ⚡ Fun fact **I love reading phylosophical books and also to Travel & Eat.**
+I'm an intermediate DevOps engineer who is passionate about making contribution to open-source more approachable, to elevate people, and building community. Some technologies I enjoy working with includes Docker, Kubernetes & Java. Apart from tech I am more of a social kind who loves to read Philosophy and Pyschology. In 2022, My interest in the Technical ecosystem with the connection and knowledge received from OpenSource and online communities led me to launch a Developer Students Club in our college, a community for tech entusiasts to come together and build something meaningful & also help our freshers out in the developer space.
 
 ## 🚀 **Languages and Tools:**
 
@@ -36,7 +25,7 @@
 
 <p align="center">
     <a href="https://github.com/shaggyyy2002/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shaggyyy2002&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nitin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shaggyyy2002&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
