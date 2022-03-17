@@ -1,7 +1,9 @@
+<h1 align="">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NITIN</h1>
+
+
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NITIN</h1>
 
 I'm an intermediate DevOps engineer who is passionate about making contribution to open-source more approachable, to elevate people, and building community. Some technologies I enjoy working with includes Docker, Kubernetes & Java. Apart from tech I am more of a social kind who loves to read Philosophy and Pyschology. In 2022, My interest in the Technical ecosystem with the connection and knowledge received from OpenSource and online communities led me to launch a Developer Students Club in our college, a community for tech entusiasts to come together and build something meaningful & also help our freshers out in the developer space.
 
