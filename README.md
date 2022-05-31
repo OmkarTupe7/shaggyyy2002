@@ -5,7 +5,7 @@
 
 
 
-I'm an intermediate DevOps engineer who is passionate about making contribution to open-source more approachable, to elevate people, and building community. Some technologies I enjoy working with includes Docker, Kubernetes & Java. Apart from tech I am more of a social kind & loves to read Philosophy and Psychology. In 2022, My interest in the Technical ecosystem with the connection and knowledge received from OpenSource and online communities led me to launch a Developer Students Club in our college, a community for tech enthusiasts to come together and build something meaningful & also help our freshers out in the developer space.
+I'm an intermediate DevOps engineer who is passionate about making contribution to open-source more approachable, to elevate people, and building communities. Some technologies I enjoy working with includes Docker, Kubernetes & Java. Apart from tech I am more of a social kind & loves to read Philosophy and Psychology. In 2022, My interest in the Technical ecosystem with the connection and knowledge received from OpenSource and online communities led me to launch a Developer Students Club in our college, a community for tech enthusiasts to come together and build something meaningful & also help our freshers out in the developer space.
 
 ## 🚀 **Languages and Tools:**
 
