@@ -1,4 +1,4 @@
-<h1 align="">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NITIN</h1>
+<h1 align="">Hi I'm NITIN,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="45"></h1>
 
 
 <img src="nitin.png" alt="Nitin" width="1000" height="250">
